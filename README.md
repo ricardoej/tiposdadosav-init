@@ -44,6 +44,7 @@ git clone <link_do_repositorio>
 cd <nome_da_pasta_do_projeto>
 git checkout -b feature/<primeiro_nome>-<sobrenome>
 ```
+- Abrir o Eclipse
 - Importar o projeto no Eclipse: File -> Import -> General -> Existing Projects into Workspace. Clicar em "Next", escolher a pasta que você fez o clone do projeto e clicar em "Finish"
 - Desenvolver o problema fazendo com que todos os testes unitários passem sem erros
 - Fazer o commit do código desenvolvido
