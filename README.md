@@ -41,13 +41,13 @@ git clone <link_do_repositorio>
 ```
 - Criar uma nova branch de entrega com o padrão "feature/<primeiro_nome>-<sobrenome>". Ex.: feature/ricardo-julio
 ```
+cd <nome_da_pasta_do_projeto>
 git checkout -b feature/<primeiro_nome>-<sobrenome>
 ```
 - Importar o projeto no Eclipse: File -> Import -> General -> Existing Projects into Workspace. Clicar em "Next", escolher a pasta que você fez o clone do projeto e clicar em "Finish"
 - Desenvolver o problema fazendo com que todos os testes unitários passem sem erros
 - Fazer o commit do código desenvolvido
 ```
-cd ~/eclipse-workspace/<nome_da_pasta_do_rpojeto>
 git add .
 git commit -m "<Seu nome completo aqui>"
 git push origin feature/<primeiro_nome>-<sobrenome>
