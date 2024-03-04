@@ -28,5 +28,6 @@
 - [Link para o formulário de avaliação](https://forms.gle/VsXj3GuBgqW8aMTm6)
 
 ## Links dos repositórios utilizados em aula
-- 26/02/2024: [https://github.com/ricardoej/tiposdadosav-calculadora](https://github.com/ricardoej/tiposdadosav-calculadora)
-- 03/04/2024:
+(!) Todos esses exercícios devem ser entregues para compor a nota de "Exercícios em Aula"
+- Data de Entrega: 03/04/2024: [https://github.com/ricardoej/tiposdadosav-calculadora](https://github.com/ricardoej/tiposdadosav-calculadora)
+- Data de Entrega: 03/04/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
