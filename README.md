@@ -33,6 +33,7 @@
 - Data de Entrega: 03/04/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
 
 ## Passos para desenvolvimento e entrega
+- Abrir o aplicativo Git Bash
 - Clonar o respositório na pasta de workspace do eclipse
 ```
 cd ~/eclipse-workspace
