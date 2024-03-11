@@ -54,3 +54,6 @@ git commit -m "<Seu nome completo aqui>"
 git push origin feature/<primeiro_nome>-<sobrenome>
 ```
 - Verificar no github, no repositório do exercício se a entrega foi feita. Acessar o repositório, onde está escrito "main" no canto superior esquerdo, mudar para a sua branch e verificar se o código subiu certinho
+
+## Acesso ao Github
+- [Usuários do Github](https://docs.google.com/spreadsheets/d/15cFrSpxbKLxXWQziItoSzXImc_omgdXRky8rcm4pYBA/edit?usp=sharing)
