@@ -31,6 +31,7 @@
 (!) Todos esses exercícios devem ser entregues para compor a nota de "Exercícios em Aula"
 - Não precisa entregar: [https://github.com/ricardoej/tiposdadosav-calculadora](https://github.com/ricardoej/tiposdadosav-calculadora)
 - Data de Entrega: 11/03/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
+- Data de Entrega: 25/03/2024: [https://github.com/ricardoej/tiposdadosav-strings](https://github.com/ricardoej/tiposdadosav-strings)
 
 ## Passos para desenvolvimento e entrega
 - Abrir o aplicativo Git Bash
