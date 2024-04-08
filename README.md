@@ -19,8 +19,8 @@
 - SANTOS, Marcela G.; SARAIVA, Maurício O.; FÁTIMA, Priscila G. Linguagem de programação. Grupo A. [Link](https://integrada.minhabiblioteca.com.br/#/books/9788595024984/)
 
 ## Sistema de Avaliação
-- Trabalho Prático - 30 pontos
-- Prova Prática - 30 pontos
+- Trabalho Prático - 30 pontos (Data: 22/04/2024)
+- Prova Prática - 30 pontos (Data: 22/04/2024)
 - Exercícios em aula - 30 pontos
 - Participação - 10 pontos
 
