@@ -32,9 +32,13 @@
 - Não precisa entregar: [https://github.com/ricardoej/tiposdadosav-calculadora](https://github.com/ricardoej/tiposdadosav-calculadora)
 - Data de Entrega: 25/03/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
 - Data de Entrega: 01/04/2024: [https://github.com/ricardoej/tiposdadosav-strings](https://github.com/ricardoej/tiposdadosav-strings)
+- Data de Entrega: 08/04/2024: [https://github.com/ricardoej/tiposdadosav-recursividade](https://github.com/ricardoej/tiposdadosav-recursividade)
 
 ## Link do trabalho prático
 - Data de Entrega: 22/04/2024: [https://github.com/ricardoej/tiposdadosav-trabalho](https://github.com/ricardoej/tiposdadosav-trabalho)
+
+## Prova prática
+- Data de Entrega: 22/04/2024. Matéria: tudo que foi visto.
 
 ## Passos para desenvolvimento e entrega
 - Abrir o aplicativo Git Bash
