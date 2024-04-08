@@ -33,6 +33,9 @@
 - Data de Entrega: 25/03/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
 - Data de Entrega: 01/04/2024: [https://github.com/ricardoej/tiposdadosav-strings](https://github.com/ricardoej/tiposdadosav-strings)
 
+## Link do trabalho prático
+- Data de Entrega: 22/04/2024: [https://github.com/ricardoej/tiposdadosav-trabalho](https://github.com/ricardoej/tiposdadosav-trabalho)
+
 ## Passos para desenvolvimento e entrega
 - Abrir o aplicativo Git Bash
 - Clonar o respositório na pasta de workspace do eclipse
