@@ -33,6 +33,7 @@
 - Data de Entrega: 25/03/2024: [https://github.com/ricardoej/tiposdadosav-analisevendas](https://github.com/ricardoej/tiposdadosav-analisevendas)
 - Data de Entrega: 01/04/2024: [https://github.com/ricardoej/tiposdadosav-strings](https://github.com/ricardoej/tiposdadosav-strings)
 - Data de Entrega: 08/04/2024: [https://github.com/ricardoej/tiposdadosav-recursividade](https://github.com/ricardoej/tiposdadosav-recursividade)
+- Data de Entrega: 15/04/2024: [https://github.com/ricardoej/tiposdadosav-arquivos](https://github.com/ricardoej/tiposdadosav-arquivos)
 
 ## Link do trabalho prático
 - Data de Entrega: 22/04/2024: [https://github.com/ricardoej/tiposdadosav-trabalho](https://github.com/ricardoej/tiposdadosav-trabalho)
